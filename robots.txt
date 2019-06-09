@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cron/
+Disallow: /admin/
+Disallow: /captcha/
+Disallow: /ckeditor/
+Disallow: /img/
+Disallow: /media/
+Disallow: /workout/
+
+Sitemap: https://yog.kz/sitemap.xml
